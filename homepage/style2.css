@@ -1,0 +1,22 @@
+body
+{
+    background:skyblue;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    
+    
+}
+header
+{
+    background:rgb(193, 211, 186);
+    
+    /* background-repeat: no-repeat; */
+    padding:40px;
+    padding-left: 40px;
+    
+    border:3px solid rgb(60, 60, 192);
+    
+    
+}
+    
